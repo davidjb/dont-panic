@@ -1,4 +1,12 @@
+! Booking.com general
+booking.com##.uc-notifications
+
 ! Booking.com search results
+booking.com##.vpm_3rfte-container
+booking.com##.vpm_nd_links
+booking.com##.results-meta
+booking.com##.viewed_hotels_sr_wrapper
+booking.com##.similar_destination
 booking.com##.fe_banner__green
 booking.com##.fe_banner__red
 booking.com##.soldout_property
@@ -13,9 +21,13 @@ booking.com##.sr--justBooked
 booking.com##.sr--x-times-booked
 booking.com##.sr_hotel_expectation__wrapper
 booking.com##.sr-list__refine-search-recommendation
-booking.com##.new_hotel__badge
-booking.com##.ribbon:has-text(Bestseller)
+booking.com##.sr_trending_attractions
 booking.com##[class*="sr_persuation_msg"]
+booking.com##.sr-badges__row
+booking.com##.new_hotel__badge
+booking.com##.genius_badge--by-stars
+booking.com##.all-inclusive-ribbon
+booking.com##.ribbon:has-text(Bestseller)
 
 ! Booking.com hotel info page
 ! USP = unique selling point
