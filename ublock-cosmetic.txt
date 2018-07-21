@@ -35,6 +35,7 @@ booking.com##.sr-cta-button-row
 ! Booking.com hotel info page
 booking.com###top-book
 booking.com##.vp_hotel_badge
+booking.com##.info-extra
 booking.com##.property_hightlights_wrapper
 booking.com##.gallery__last-item__thumb:if(.lock_icon)
 booking.com##.hp-lists
@@ -56,6 +57,26 @@ booking.com##.has-no-dates #myBanner3
 booking.com##.fe-banner-icon__hp-people-looking
 booking.com##.property_page_surroundings_block
 booking.com##.lists-comparison-container
+booking.com##.hprt-booking-summary-best-price
+booking.com##hprt-booking-summary-dont-worry
+booking.com##.submit_holder_button_tooltip
+booking.com##.abandoned-cart-growl-notification
+booking.com##.bp_leaving_users_light_box
+booking.com##.bp_leaving_users_light_box_mask
+secure.booking.com##.bp_sidebar_content_block__li_content--alert
+secure.booking.com##.bp_cta_urgency
+secure.booking.com###external_proof_area
+secure.booking.com##.area_local_office_inner_bp
+secure.booking.com##.book-footer-nps-proof
+secure.booking.com##.submit_holder_comment:has-text(Don't worry)
+secure.booking.com##.required_fields_description:has-text(Almost done!)
+secure.booking.com##.bp_hotel_bestseller
+secure.booking.com##.bp_hotel_great_location
+secure.booking.com##.bp_wyswyg_holder
+secure.booking.com##.bp_form__email_suggestion
+secure.booking.com##.car-offer
+secure.booking.com##.bs2_bpg_in_btn
+secure.booking.com##.bp_sidebar_content_block--highlights
 
 ! Homeaway search results
 www.homeaway.com###percentage-banner
