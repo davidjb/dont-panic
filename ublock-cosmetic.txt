@@ -42,6 +42,7 @@ booking.com##.jq_tooltip:has(.-genius-dotgenius)
 booking.com###hotelTmpl .preferred-program-icon
 booking.com##.facility-badge__wrapper
 booking.com##.preferred-program-icon:style(color: red !important;)
+booking.com##.d-deal__lonely
 booking.com##.info-extra
 booking.com##.property_hightlights_wrapper
 booking.com##.bh-photo-recent
