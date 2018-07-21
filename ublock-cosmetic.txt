@@ -31,12 +31,15 @@ booking.com##.all-inclusive-ribbon
 booking.com##.ribbon:has-text(Bestseller)
 ! Button text attempt to manipulate (eg "See our last available rooms") when it isn't the whole truth
 booking.com##.sr-cta-button-row
+! Reduce emphasis on text
+booking.com##.free-cancel-persuasion,.availprice,.animated .availprice:style(color: black !important)
 
 ! Booking.com hotel info page
 booking.com###top-book
 booking.com##.vp_hotel_badge
 booking.com##.info-extra
 booking.com##.property_hightlights_wrapper
+booking.com##.bh-photo-recent
 booking.com##.gallery__last-item__thumb:if(.lock_icon)
 booking.com##.hp-lists
 booking.com##.hp-description--property-name-best-seller
