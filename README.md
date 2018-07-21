@@ -1,6 +1,17 @@
 # Don't Panic!
 
-Browser filters and strategies for dealing with Dark Patterns.
+Browser filters and strategies for dealing with
+[Dark Patterns](https://darkpatterns.org), which are defined as:
+
+> Dark Patterns are tricks used in websites and apps that make you buy or sign up 
+> for things that you didn't mean to. 
+>
+> **How do Dark Patterns work?**
+>
+> When you use the web, you don’t read every word on every page - you skim read and make assumptions. If a company wants to trick you into doing something, they can take advantage of this by making a page look like it is saying one thing when it is in fact saying another.
+
+The set of tools and concepts here aim to help you defend yourself against these
+types of behaviours.
 
 ## Naming
 
@@ -14,7 +25,8 @@ Arthur turned it over nervously in his hands.
 From _The Hitchhiker’s Guide to the Galaxy_ by Douglas Adams. 
 
 The aim of this project is to calm the plethora of dark patterns experienced online,
-many of which seek to induce fear, anxiety and panic.
+many of which seek to induce fear, anxiety and panic to influence your behaviour as
+you browse.
 
 ## Contributing
 
