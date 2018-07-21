@@ -67,11 +67,14 @@ booking.com##.fe-banner-icon__hp-people-looking
 booking.com##.property_page_surroundings_block
 booking.com##.lists-comparison-container
 booking.com##.hprt-booking-summary-best-price
+booking.com##.hprt-table .important_text:style(color: black !important; font-weight: normal !important;)
 booking.com##hprt-booking-summary-dont-worry
 booking.com##.submit_holder_button_tooltip
 booking.com##.abandoned-cart-growl-notification
 booking.com##.bp_leaving_users_light_box
 booking.com##.bp_leaving_users_light_box_mask
+
+! Booking.com booking page
 secure.booking.com##.bp_sidebar_content_block__li_content--alert
 secure.booking.com##.bp_cta_urgency
 secure.booking.com###external_proof_area
