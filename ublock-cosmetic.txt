@@ -17,6 +17,7 @@ booking.com##.in-high-demand-not-scarce
 booking.com##.hp-rt-just-booked
 booking.com##.hprt-table-cheapest-block-banner
 booking.com##.hprt-booking-cta-ticker
+booking.com##.sr_compset
 booking.com##.sr--justBooked
 booking.com##.sr--x-times-booked
 booking.com##.sr_hotel_expectation__wrapper
@@ -28,8 +29,20 @@ booking.com##.new_hotel__badge
 booking.com##.genius_badge--by-stars
 booking.com##.all-inclusive-ribbon
 booking.com##.ribbon:has-text(Bestseller)
+! Button text attempt to manipulate (eg "See our last available rooms") when it isn't the whole truth
+booking.com##.sr-cta-button-row
 
 ! Booking.com hotel info page
+booking.com###top-book
+booking.com##.vp_hotel_badge
+booking.com##.property_hightlights_wrapper
+booking.com##.gallery__last-item__thumb:if(.lock_icon)
+booking.com##.hp-lists
+booking.com##.hp-description--property-name-best-seller
+booking.com##.hp_sidebar-similar
+booking.com##.hp-low_sidebar_to_content
+booking.com##.hp_cs_back_to_search
+booking.com##.hp-description--property-name-top-ranked
 ! USP = unique selling point
 booking.com###usp-hotelpage-main-col
 booking.com###rate_guarantee
@@ -42,10 +55,7 @@ booking.com##.lock-price-banner
 booking.com##.has-no-dates #myBanner3
 booking.com##.fe-banner-icon__hp-people-looking
 booking.com##.property_page_surroundings_block
-booking.com##.hp_sidebar-similar
-booking.com##.hp-low_sidebar_to_content
-booking.com##.hp_cs_back_to_search
-booking.com##.hp-description--property-name-top-ranked
+booking.com##.lists-comparison-container
 
 ! Homeaway search results
 www.homeaway.com###percentage-banner
