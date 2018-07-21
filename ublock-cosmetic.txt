@@ -37,6 +37,9 @@ booking.com##.free-cancel-persuasion,.availprice,.animated .availprice,.availpri
 ! Booking.com hotel info page
 booking.com###top-book
 booking.com##.vp_hotel_badge
+booking.com##.jq_tooltip:has(.-genius-dotgenius)
+booking.com##.facility-badge__wrapper
+booking.com##.preferred-program-icon:style(color: red !important;)
 booking.com##.info-extra
 booking.com##.property_hightlights_wrapper
 booking.com##.bh-photo-recent
