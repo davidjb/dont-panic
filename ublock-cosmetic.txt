@@ -6,14 +6,16 @@ booking.com##.msg_low_avail_block
 booking.com##.urgency_link
 booking.com##.urgency_message_x_people
 booking.com##.in-high-demand-not-scarce
-booking.com##.hp-rt-just-booke
+booking.com##.hp-rt-just-booked
 booking.com##.hprt-table-cheapest-block-banner
 booking.com##.hprt-booking-cta-ticker
 booking.com##.sr--justBooked
 booking.com##.sr--x-times-booked
+booking.com##.sr_hotel_expectation__wrapper
 booking.com##.sr-list__refine-search-recommendation
 booking.com##.new_hotel__badge
 booking.com##.ribbon:has-text(Bestseller)
+booking.com##[class*="sr_persuation_msg"]
 
 ! Booking.com hotel info page
 ! USP = unique selling point
