@@ -1,0 +1,49 @@
+! Booking.com search results
+booking.com##.fe_banner__green
+booking.com##.fe_banner__red
+booking.com##.soldout_property
+booking.com##.msg_low_avail_block
+booking.com##.urgency_link
+booking.com##.urgency_message_x_people
+booking.com##.in-high-demand-not-scarce
+booking.com##.hp-rt-just-booke
+booking.com##.hprt-table-cheapest-block-banner
+booking.com##.hprt-booking-cta-ticker
+booking.com##.sr--justBooked
+booking.com##.sr--x-times-booked
+booking.com##.sr-list__refine-search-recommendation
+booking.com##.new_hotel__badge
+booking.com##.ribbon:has-text(Bestseller)
+
+! Booking.com hotel info page
+! USP = unique selling point
+booking.com###usp-hotelpage-main-col
+booking.com###rate_guarantee
+booking.com###althotels-wrapper
+booking.com###viewmorealt
+booking.com###footer_menu_track
+! Fake 'helpful' links clearly just for SEO
+booking.com###seo_links_drawer
+booking.com##.lock-price-banner
+booking.com##.has-no-dates #myBanner3
+booking.com##.fe-banner-icon__hp-people-looking
+booking.com##.property_page_surroundings_block
+booking.com##.hp_sidebar-similar
+booking.com##.hp-low_sidebar_to_content
+booking.com##.hp_cs_back_to_search
+booking.com##.hp-description--property-name-top-ranked
+
+! Homeaway search results
+www.homeaway.com###percentage-banner
+www.homeaway.com##.viewed-urgency
+www.homeaway.com##.premier-badge
+
+! Expedia hotel info page
+expedia.*###cta-continue-search-button
+expedia.*###site-footer-background
+expedia.*##.cta-continue-search
+
+! Rentalcars.com booking process
+rentalcars.com##.important
+rentalcars.com##.insurance-available.positive
+rentalcars.com##.below-average-price
