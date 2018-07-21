@@ -33,11 +33,13 @@ booking.com##.ribbon:has-text(Bestseller)
 booking.com##.sr-cta-button-row
 ! Reduce emphasis on text
 booking.com##.free-cancel-persuasion,.availprice,.animated .availprice,.availprice b,.no_cc_02,#hotelTmpl .urgency_message_red:style(color: black !important; font-weight: normal !important)
+booking.com##.hotellist .preferred-program-icon:style(color: gray !important;)
 
 ! Booking.com hotel info page
 booking.com###top-book
 booking.com##.vp_hotel_badge
 booking.com##.jq_tooltip:has(.-genius-dotgenius)
+booking.com###hotelTmpl .preferred-program-icon
 booking.com##.facility-badge__wrapper
 booking.com##.preferred-program-icon:style(color: red !important;)
 booking.com##.info-extra
