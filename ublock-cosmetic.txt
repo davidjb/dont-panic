@@ -118,6 +118,7 @@ secure.booking.com##.car-offer
 secure.booking.com##.bs2_bpg_in_btn
 secure.booking.com##.bp_sidebar_content_block--highlights
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Homeaway
 !!!!!!!!!!!!!!!!!!!!!!!!!
@@ -126,6 +127,7 @@ secure.booking.com##.bp_sidebar_content_block--highlights
 www.homeaway.com###percentage-banner
 www.homeaway.com##.viewed-urgency
 www.homeaway.com##.premier-badge
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Expedia
@@ -183,6 +185,7 @@ expedia.*###hookLogicPageViewPixel
 expedia.*##.hotelXSellGT
 expedia.*##.hotelXSellThingsToDo
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Agoda
 !!!!!!!!!!!!!!!!!!!!!!!!!
@@ -220,13 +223,59 @@ secure.agoda.com##.review-snippet
 www.agoda.com##.airport-banner-rectangle
 www.agoda.com##.mmb-tell-friends-caption
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! TripAdvisor
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
+! TripAdvisor homepage
+tripadvisor.*###taplc_homepage_shelves_0
+tripadvisor.*##.ppr_priv_popular_destinations
+
 ! TripAdvisor attractions
 tripadvisor.*##.Attraction_Review:has-text(Join TripAdvisor)
 tripadvisor.*##.ppr_priv_location_detail_tag_questions
+
+! TripAdvsior hotel reviews
+tripadvisor.*###taplc_hr_xsell_web_component_below_review_0
+tripadvisor.*##.urgency_alert
+tripadvisor.*##.trip_search_header:has(.urgency_alert)
+tripadvisor.*##.trip_search_header
+tripadvisor.*###hotel_header_banner_ad
+tripadvisor.*##.premium_offers_area .ctaButton
+tripadvisor.*##.premium_offers_area .ib_box_header
+tripadvisor.*##.tabBarOffer
+tripadvisor.*##.greatValue
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! HotelsCombined
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+hotelscombined.*##.hc-promopanel
+hotelscombined.*##.hc_r_social
+hotelscombined.*##.hc_r_destinations
+hotelscombined.*###hc_trendingHtls
+hotelscombined.*##.hc_topDestQuickLinks
+hotelscombined.*##.hc_r_recommended_full
+hotelscombined.*###hc_r_ft > .hc_r_brand
+hotelscombined.*##.hc_f_bestDeals
+hotelscombined.*##.hc_r_brand
+hotelscombined.*##.hc_notification:has-text(Act Quick)
+hotelscombined.*##.hc_notification:has-text(Act quickly)
+
+! HotelsCombined search page
+hotelscombined.*##.hc-needHelpInfo
+hotelscombined.*###hc_deals_banner
+hotelscombined.*##.hc_brandTrust
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! SkyScanner
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+skyscanner.*##.inspiration-shelves-wrapper
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Rentalcars.com
@@ -236,3 +285,25 @@ tripadvisor.*##.ppr_priv_location_detail_tag_questions
 rentalcars.com##.important
 rentalcars.com##.insurance-available.positive
 rentalcars.com##.below-average-price
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! YouTube
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! YouTube homepage
+www.youtube.com##.ytd-browse
+
+! YouTube video
+www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer
+www.youtube.com##.videowall-endscreen
+www.youtube.com##.ytp-endscreen-content
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Qantas
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+book.qantas.com.au##car-teaser
+book.qantas.com.au###PH_topPromos
+book.qantas.com.au##.user-survey
