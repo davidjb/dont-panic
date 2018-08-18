@@ -58,6 +58,7 @@ booking.com##.genius_highlight:style(border-bottom: 0 !important; box-shadow: no
 booking.com##.strike-it-red_anim
 booking.com##.crossedout-price-icon
 booking.com##.destination-sr-ufi-description
+booking.com##.sr_room_reinforcement:style(color: #000 !important; font-weight: normal !important;)
 
 ! Booking.com hotel info page
 booking.com###top-book
@@ -147,6 +148,7 @@ expedia.*###feefo-container
 expedia.*###launch-seo
 expedia.*###reasons-to-believe-banner
 expedia.*###header-partner-add-hotel-container
+expedia.*##.rotating-promos
 expedia.*###footer
 
 ! Expedia UI
@@ -165,6 +167,16 @@ expedia.*###bannerText:has-text(Member Pricing)
 expedia.*###page-interstitial
 expedia.*##.pinnedHotelAction > .link
 expedia.*##.discount-ribbon
+expedia.*##.hotel-price-supplemental
+expedia.*##.hotel-ugc .superlative
+expedia.*##.hotel-info .phone
+expedia.*##.hotel-info .esr-flex
+expedia.*##.npp:style(color: #000 !important;)
+expedia.*##.nppText:style(font-weight: normal !important;)
+expedia.*##.free-breakfast-text:style(color: #555 !important; font-weight: normal !important)
+expedia.*##.freeCancel:style(color: #555 !important;)
+expedia.*##.strikePrice:style(font-size: 50% !important; margin-right: .5em !important; color: #aaa !important;)
+expedia.*##.reviewCount:style(display: inline-block !important;)
 
 ! Expedia hotel info page
 expedia.*##.favorite-tooltip
