@@ -1,3 +1,7 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Booking.com
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ! Booking.com general
 booking.com##.uc-notifications
 
@@ -98,8 +102,6 @@ booking.com##.js-no-reviews
 booking.com##.hp-social_proof-item-featured-topic:style(font-weight: normal !important; border-bottom: 0 none !important; padding: 0;)
 booking.com###group_recommendation
 
-
-
 ! Booking.com booking page
 secure.booking.com##.bp_sidebar_content_block__li_content--alert
 secure.booking.com##.bp_cta_urgency
@@ -116,10 +118,18 @@ secure.booking.com##.car-offer
 secure.booking.com##.bs2_bpg_in_btn
 secure.booking.com##.bp_sidebar_content_block--highlights
 
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Homeaway
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ! Homeaway search results
 www.homeaway.com###percentage-banner
 www.homeaway.com##.viewed-urgency
 www.homeaway.com##.premier-badge
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Expedia
+!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ! Expedia homepage
 expedia.*###feefo-container
@@ -172,6 +182,55 @@ expedia.*###hookLogicPageViewPixel
 ! Expedia trip page
 expedia.*##.hotelXSellGT
 expedia.*##.hotelXSellThingsToDo
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Agoda
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! Agoda UI
+www.agoda.com##.footer-bottom
+
+! Agoda search
+www.agoda.com##.RecommendedBar
+www.agoda.com##.urgency-messaging-container
+www.agoda.com##.availability-message
+
+! Agoda hotel page
+www.agoda.com##.property-recommended-properties-root
+www.agoda.com##.user-engagement--property__high-demand
+
+! Agoda booking page
+secure.agoda.com##.availability-message
+secure.agoda.com##.urgency
+secure.agoda.com##.cheapest-room-badge
+secure.agoda.com##.discount.banner
+secure.agoda.com##.airport-transfer-form
+secure.agoda.com##.airport-transfer-panel
+
+! Agoda confirmation (thank you page)
+secure.agoda.com##.nexttrip-panel
+secure.agoda.com##.partner
+secure.agoda.com##.online-access
+secure.agoda.com##.booking-conditions:has-text(Lock down this rate)
+secure.agoda.com##.sat-score
+secure.agoda.com##.tellfriends-panel
+secure.agoda.com##.review-snippet
+
+! Agoda bookings page
+www.agoda.com##.airport-banner-rectangle
+www.agoda.com##.mmb-tell-friends-caption
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! TripAdvisor
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! TripAdvisor attractions
+tripadvisor.*##.Attraction_Review:has-text(Join TripAdvisor)
+tripadvisor.*##.ppr_priv_location_detail_tag_questions
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Rentalcars.com
+!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ! Rentalcars.com booking process
 rentalcars.com##.important
