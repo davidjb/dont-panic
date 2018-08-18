@@ -26,6 +26,7 @@ booking.com##.in-high-demand-not-scarce
 booking.com##.hp-rt-just-booked
 booking.com##.hprt-table-cheapest-block-banner
 booking.com##.hprt-booking-cta-ticker
+booking.com##.sr-usp-overlay__container
 booking.com##.sr-header-endorsments
 booking.com##.sr-group-recommendation__title
 expedia.com##.telesales-number
@@ -49,6 +50,10 @@ booking.com##.hotellist .preferred-program-icon:style(color: gray !important;)
 booking.com##.geo_sr_hbe
 booking.com##.totalPrice:style(color: black !important)
 booking.com##a.map-card__container:has-text(Sold out)
+booking.com##.scarcity_color:style(color: #000 !important;)
+booking.com##.scarcity_color b:style(font-weight: normal !important;)
+booking.com##.review-score-widget__text
+booking.com##.genius_highlight:style(border-bottom: 0 !important; box-shadow: none !important;)
 
 ! Booking.com hotel info page
 booking.com###top-book
