@@ -1,7 +1,12 @@
 ! Booking.com general
 booking.com##.uc-notifications
 
+! Booking.com homepage
+booking.com##.header-signin-prompt
+
 ! Booking.com search results
+booking.com##.sign_in_wrapper-add-property
+booking.com###inspire_filter_block
 booking.com##.vpm_3rfte-container
 booking.com##.vpm_nd_links
 booking.com##.results-meta
@@ -17,6 +22,9 @@ booking.com##.in-high-demand-not-scarce
 booking.com##.hp-rt-just-booked
 booking.com##.hprt-table-cheapest-block-banner
 booking.com##.hprt-booking-cta-ticker
+booking.com##.sr-header-endorsments
+booking.com##.sr-group-recommendation__title
+expedia.com##.telesales-number
 booking.com##.sr_compset
 booking.com##.sr--justBooked
 booking.com##.sr--x-times-booked
@@ -34,6 +42,9 @@ booking.com##.sr-cta-button-row
 ! Reduce emphasis on text
 booking.com##.free-cancel-persuasion,.availprice,.animated .availprice,.availprice b,.no_cc_02,#hotelTmpl .urgency_message_red:style(color: black !important; font-weight: normal !important)
 booking.com##.hotellist .preferred-program-icon:style(color: gray !important;)
+booking.com##.geo_sr_hbe
+booking.com##.totalPrice:style(color: black !important)
+booking.com##a.map-card__container:has-text(Sold out)
 
 ! Booking.com hotel info page
 booking.com###top-book
@@ -73,6 +84,21 @@ booking.com##.submit_holder_button_tooltip
 booking.com##.abandoned-cart-growl-notification
 booking.com##.bp_leaving_users_light_box
 booking.com##.bp_leaving_users_light_box_mask
+! um = urgency metric
+booking.com##.gallery-info__um
+! fc = free cancellation
+booking.com##.gallery-info__fc
+booking.com##.hp-rt-recently-booked
+booking.com##.groups_click_no_pay
+booking.com##.hotel_overlay_urgency
+booking.com##.hotel_overlay_urgency
+booking.com##.mng-iw-hotel-xpplooking
+booking.com##.hprt-price-deal-message
+booking.com##.js-no-reviews
+booking.com##.hp-social_proof-item-featured-topic:style(font-weight: normal !important; border-bottom: 0 none !important; padding: 0;)
+booking.com###group_recommendation
+
+
 
 ! Booking.com booking page
 secure.booking.com##.bp_sidebar_content_block__li_content--alert
@@ -95,10 +121,57 @@ www.homeaway.com###percentage-banner
 www.homeaway.com##.viewed-urgency
 www.homeaway.com##.premier-badge
 
+! Expedia homepage
+expedia.*###feefo-container
+expedia.*###launch-seo
+expedia.*###reasons-to-believe-banner
+expedia.*###header-partner-add-hotel-container
+expedia.*###footer
+
+! Expedia UI
+expedia.*##.user-history-tab .sp-badge
+
+! Expedia hotel search
+expedia.*###partner-add-hotel-container
+expedia.*##.hotel-price .urgencyContainer
+expedia.*##.topPropertyGreyBadge
+expedia.*##.memberDiscountHighlight:style(background-color: transparent !important;)
+expedia.*##.hotel:has(.soldOutMsg)
+expedia.*##.scratchpad-region
+expedia.*##^#travelAdsPageViewPixel
+expedia.*###hotelResultTitle .phoneNumber
+expedia.*###bannerText:has-text(Member Pricing)
+expedia.*###page-interstitial
+expedia.*##.pinnedHotelAction > .link
+expedia.*##.discount-ribbon
+
 ! Expedia hotel info page
+expedia.*##.favorite-tooltip
 expedia.*###cta-continue-search-button
 expedia.*###site-footer-background
 expedia.*##.cta-continue-search
+expedia.*##.decoys
+expedia.*##.telesales-number
+expedia.*###.reviews-container-left
+expedia.*##.shortlist-tools
+expedia.*##.hpg-acquisition-rewards-more
+expedia.*##.lead-price
+
+! Expedia checkout 
+expedia.*###confidence-messaging
+expedia.*##.telesales-header-enabled
+expedia.*###prominent-pwp-signin
+expedia.*###opinion-labs
+expedia.*##.trust-messaging-nobg
+
+! Expedia booking confirmation
+expedia.*###oneClickCrossSellModal
+expedia.*##.active.modal-dismiss.modal-background
+expedia.*###hookLogicPageViewPixel
+
+! Expedia trip page
+expedia.*##.hotelXSellGT
+expedia.*##.hotelXSellThingsToDo
 
 ! Rentalcars.com booking process
 rentalcars.com##.important
