@@ -54,6 +54,9 @@ booking.com##.scarcity_color:style(color: #000 !important;)
 booking.com##.scarcity_color b:style(font-weight: normal !important;)
 booking.com##.review-score-widget__text
 booking.com##.genius_highlight:style(border-bottom: 0 !important; box-shadow: none !important;)
+booking.com##.strike-it-red_anim
+booking.com##.crossedout-price-icon
+booking.com##.destination-sr-ufi-description
 
 ! Booking.com hotel info page
 booking.com###top-book
