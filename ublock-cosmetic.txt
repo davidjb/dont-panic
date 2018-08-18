@@ -34,6 +34,7 @@ booking.com##.sr_compset
 booking.com##.sr--justBooked
 booking.com##.sr--x-times-booked
 booking.com##.sr_hotel_expectation__wrapper
+booking.com##.sr_room_reinforcement:style(color: #000 !important; font-weight: normal !important;)
 booking.com##.sr-list__refine-search-recommendation
 booking.com##.sr_trending_attractions
 booking.com##[class*="sr_persuation_msg"]
