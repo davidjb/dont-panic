@@ -7,6 +7,19 @@ booking.com##.uc-notifications
 
 ! Booking.com homepage
 booking.com##.header-signin-prompt
+booking.com##.promotion-postcards-list
+booking.com###searchform-subscribe-box
+booking.com##.join_banner_small
+booking.com##.sb-searchbox__title:has-text(Where to next)
+booking.com##.sb-searchbox__subtitle-text:has-text(Genius)
+booking.com##.sb-searchbox__genius_icon
+booking.com##.promote_articles
+booking.com##.bh-carousel--new
+booking.com##.d-bh-promotion--container
+booking.com###top-destinations-block
+booking.com##.in-and-around
+booking.com##.discover-index
+booking.com##.recent-reviews
 
 ! Booking.com search results
 booking.com##.sign_in_wrapper-add-property
