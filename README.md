@@ -33,7 +33,8 @@ you browse.
 1. Install [uBlock Origin](https://github.com/gorhill/uBlock).  Make sure it's the _real_ uBlock Origin and [not
    from ublock.org](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org)
 1. Open the uBlock Origin [Dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)
-1. Click [Filter Lists], scroll to the bottom and use `Import` from this URL:
+1. Click [Filter Lists](https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web),
+   scroll to the bottom and use `Import` from this URL:
 
        https://github.com/davidjb/dont-panic/raw/master/ublock-cosmetic.txt
        
