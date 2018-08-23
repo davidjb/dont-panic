@@ -63,7 +63,7 @@ booking.com##.sr-cta-button-row
 booking.com##.free-cancel-persuasion,.availprice,.animated .availprice,.availprice b,.no_cc_02,#hotelTmpl .urgency_message_red:style(color: black !important; font-weight: normal !important)
 booking.com##.hotellist .preferred-program-icon:style(color: gray !important;)
 booking.com##.geo_sr_hbe
-booking.com##.totalPrice:style(color: black !important)
+booking.com##.totalPrice:style(color: black !important; font-weight: normal !important;)
 booking.com##a.map-card__container:has-text(Sold out)
 booking.com##.scarcity_color:style(color: #000 !important;)
 booking.com##.scarcity_color b:style(font-weight: normal !important;)
