@@ -28,6 +28,18 @@ The aim of this project is to calm the plethora of dark patterns experienced onl
 many of which seek to induce fear, anxiety and panic to influence your behaviour as
 you browse.
 
+## Installation
+
+1. Install [uBlock Origin](https://github.com/gorhill/uBlock).  Make sure it's the _real_ uBlock Origin and [not
+   from ublock.org](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-is-completely-unrelated-to-the-web-site-ublock.org)
+1. Open the uBlock Origin [Dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)
+1. Click [Filter Lists], scroll to the bottom and use `Import` from this URL:
+
+       https://github.com/davidjb/dont-panic/raw/master/ublock-cosmetic.txt
+       
+1. Click `Apply Changes` and the filter will be auto-downloaded and kept up-to-date
+   for you in accordance with your update settings.
+
 ## Contributing
 
 Pull requests are welcome to improve filter lists, expand documentation or improve
