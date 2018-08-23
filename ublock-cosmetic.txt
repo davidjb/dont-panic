@@ -43,6 +43,7 @@ booking.com##.new_hotel__badge
 booking.com##.genius_badge--by-stars
 booking.com##.all-inclusive-ribbon
 booking.com##.ribbon:has-text(Bestseller)
+booking.com##.bfast-included-ribbon
 ! Button text attempt to manipulate (eg "See our last available rooms") when it isn't the whole truth
 booking.com##.sr-cta-button-row
 ! Reduce emphasis on text
@@ -59,6 +60,11 @@ booking.com##.strike-it-red_anim
 booking.com##.crossedout-price-icon
 booking.com##.destination-sr-ufi-description
 booking.com##.sr_room_reinforcement:style(color: #000 !important; font-weight: normal !important;)
+booking.com##.sr_vr_intent--banner
+booking.com##.sr__guest-favorite
+booking.com##.lastbooking
+booking.com##.only_x_left
+booking.com##.bui-price__discount
 
 ! Booking.com hotel info page
 booking.com###top-book
@@ -80,6 +86,7 @@ booking.com##.hp_cs_back_to_search
 booking.com##.hp-description--property-name-top-ranked
 ! USP = unique selling point
 booking.com###usp-hotelpage-main-col
+booking.com##.usp-hotelpage--chains
 booking.com###rate_guarantee
 booking.com###althotels-wrapper
 booking.com###viewmorealt
@@ -328,3 +335,11 @@ www.youtube.com##.ytp-endscreen-content
 book.qantas.com.au##car-teaser
 book.qantas.com.au###PH_topPromos
 book.qantas.com.au##.user-survey
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! The Economist
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+economist.com##.inhouse__subscription-ribbon
+economist.com##.exit-pop
