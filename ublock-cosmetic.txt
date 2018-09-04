@@ -340,6 +340,14 @@ www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-ren
 www.youtube.com##.videowall-endscreen
 www.youtube.com##.ytp-endscreen-content
 
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Quora
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! Quora answers have disguised ad
+www.quora.com##.UnifiedAnswerPagedList(ad  by)
+www.quora.com##.pagedlist_item:has-text(promoted  by)
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Qantas
