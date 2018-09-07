@@ -358,6 +358,7 @@ book.qantas.com.au##car-teaser
 book.qantas.com.au###PH_topPromos
 book.qantas.com.au##.user-survey
 book.qantas.com.au###tripOffer
+book.qantas.com.au##.notification:has-text(Don't miss out)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
