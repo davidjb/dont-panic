@@ -340,6 +340,7 @@ www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-ren
 www.youtube.com##.videowall-endscreen
 www.youtube.com##.ytp-endscreen-content
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!
 ! Quora
 !!!!!!!!!!!!!!!!!!!!!!!!!
@@ -356,6 +357,7 @@ www.quora.com##.pagedlist_item:has-text(promoted  by)
 book.qantas.com.au##car-teaser
 book.qantas.com.au###PH_topPromos
 book.qantas.com.au##.user-survey
+book.qantas.com.au###tripOffer
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
