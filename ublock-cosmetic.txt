@@ -179,7 +179,7 @@ expedia.*###partner-add-hotel-container
 expedia.*##.hotel-price .urgencyContainer
 expedia.*##.topPropertyGreyBadge
 expedia.*##.memberDiscountHighlight:style(background-color: transparent !important;)
-expedia.*##.hotel:has(.soldOutMsg)
+expedia.*##.hotel:if(.soldOutMsg):if-not(.pinnedName)
 expedia.*##.scratchpad-region
 expedia.*##^#travelAdsPageViewPixel
 expedia.*###hotelResultTitle .phoneNumber
