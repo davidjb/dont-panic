@@ -367,3 +367,12 @@ book.qantas.com.au##.notification:has-text(Don't miss out)
 
 economist.com##.inhouse__subscription-ribbon
 economist.com##.exit-pop
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Element14
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! Poor attempt at "locking down" content
+www.element14.com##.e14-registration-required-bg
+www.element14.com##.e14-registration-required
