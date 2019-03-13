@@ -13,6 +13,7 @@ booking.com##.join_banner_small
 booking.com##.sb-searchbox__title:has-text(Where to next)
 booking.com##.sb-searchbox__subtitle-text:has-text(Genius)
 booking.com##.sb-searchbox__genius_icon
+booking.com##.sb-autocomplete__badge--popular
 booking.com##.promote_articles
 booking.com##.bh-carousel--new
 booking.com##.d-bh-promotion--container
@@ -20,6 +21,7 @@ booking.com###top-destinations-block
 booking.com##.in-and-around
 booking.com##.discover-index
 booking.com##.recent-reviews
+booking.com##.pe-full-hero
 
 ! Booking.com search results
 booking.com##.sign_in_wrapper-add-property
@@ -31,6 +33,9 @@ booking.com##.viewed_hotels_sr_wrapper
 booking.com##.similar_destination
 booking.com##.fe_banner__green
 booking.com##.fe_banner__red
+! "Secret" messages telling you to take some action you really don't want to
+booking.com##.psst
+! Hide any fake properties that are actually "sold out" or never available to start with
 booking.com##.soldout_property
 booking.com##.msg_low_avail_block
 booking.com##.urgency_link
@@ -50,6 +55,7 @@ booking.com##.sr_hotel_expectation__wrapper
 booking.com##.sr_room_reinforcement:style(color: #000 !important; font-weight: normal !important;)
 booking.com##.sr-list__refine-search-recommendation
 booking.com##.sr_trending_attractions
+booking.com###sr_notice_location_aware_map_link
 booking.com##[class*="sr_persuation_msg"]
 booking.com##.sr-badges__row
 booking.com##.new_hotel__badge
@@ -57,13 +63,14 @@ booking.com##.genius_badge--by-stars
 booking.com##.all-inclusive-ribbon
 booking.com##.ribbon:has-text(Bestseller)
 booking.com##.bfast-included-ribbon
-! Button text attempt to manipulate (eg "See our last available rooms") when it isn't the whole truth
+! Button text attempts to manipulate (eg "See our last available rooms") when it isn't the whole truth
 booking.com##.sr-cta-button-row
 ! Reduce emphasis on text
 booking.com##.free-cancel-persuasion,.availprice,.animated .availprice,.availprice b,.no_cc_02,#hotelTmpl .urgency_message_red:style(color: black !important; font-weight: normal !important)
 booking.com##.hotellist .preferred-program-icon:style(color: gray !important;)
 booking.com##.geo_sr_hbe
 booking.com##.totalPrice:style(color: black !important; font-weight: normal !important;)
+booking.com##.roomPrice .tpi_price_label:style(color: black !important; font-weight: normal !important;)
 booking.com##a.map-card__container:has-text(Sold out)
 booking.com##.scarcity_color:style(color: #000 !important;)
 booking.com##.scarcity_color b:style(font-weight: normal !important;)
@@ -78,6 +85,8 @@ booking.com##.sr__guest-favorite
 booking.com##.lastbooking
 booking.com##.only_x_left
 booking.com##.bui-price__discount
+booking.com##.ribbon__extra
+booking.com##.ge-promo-block
 
 ! Booking.com hotel info page
 booking.com###top-book
@@ -154,9 +163,22 @@ secure.booking.com##.bp_sidebar_content_block--highlights
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
 ! Homeaway search results
-www.homeaway.com###percentage-banner
-www.homeaway.com##.viewed-urgency
-www.homeaway.com##.premier-badge
+www.homeaway.*###percentage-banner
+www.homeaway.*##.viewed-urgency
+www.homeaway.*##.viewed-urgency-row
+www.homeaway.*##.premier-badge
+www.homeaway.*###urgency-timed-banner
+www.homeaway.*##.expanded-props-wrapper
+www.homeaway.*##.searchResultsSeo
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! Stayz
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+www.stayz.com.au###about
+
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
@@ -176,6 +198,8 @@ expedia.*##.user-history-tab .sp-badge
 
 ! Expedia hotel search
 expedia.*###partner-add-hotel-container
+expedia.*##.more-than-hotels-container
+expedia.*###HomesAndApartments
 expedia.*##.hotel-price .urgencyContainer
 expedia.*##.topPropertyGreyBadge
 expedia.*##.memberDiscountHighlight:style(background-color: transparent !important;)
@@ -266,6 +290,17 @@ www.agoda.com##.mmb-tell-friends-caption
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
+! Airbnb
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+airbnb.*##._2930ex:has-text(more people are looking)
+airbnb.*##._2930ex:has-text(more people)
+airbnb.*##._2930ex:has-text(We recommend booking)
+airbnb.*##._16tcko6:has-text(New lower price)
+airbnb.*##._uknigi:has-text(HOME HIGHLIGHTS)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
 ! TripAdvisor
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -276,6 +311,7 @@ tripadvisor.*##.ppr_priv_popular_destinations
 ! TripAdvisor attractions
 tripadvisor.*##.Attraction_Review:has-text(Join TripAdvisor)
 tripadvisor.*##.ppr_priv_location_detail_tag_questions
+tripadvisor.*##.ppr_priv_header_banner_ad
 
 ! TripAdvsior hotel reviews
 tripadvisor.*###taplc_hr_xsell_web_component_below_review_0
@@ -316,6 +352,9 @@ hotelscombined.*##.hc_brandTrust
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
 skyscanner.*##.inspiration-shelves-wrapper
+skyscanner.*###tame-slot-day-view-inline-4
+skyscanner.*##.tame-sidebar
+skyscanner.*###strevda-sidebar
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
@@ -348,6 +387,16 @@ www.youtube.com##.ytp-endscreen-content
 ! Quora answers have disguised ad
 www.quora.com##.UnifiedAnswerPagedList(ad  by)
 www.quora.com##.pagedlist_item:has-text(promoted  by)
+www.quora.com###abYySV:has-text(promoted  by)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+! WhistleOut
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
+whistleout.com.au##.results-item:has(.label-warning):has-text(Featured)
+whistleout.com.au##.bg-orange.row:has-text(Promoted Matches)
+whistleout.com.au##.bottom-strip:has-text(Featured Offer)
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
