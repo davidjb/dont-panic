@@ -3,8 +3,8 @@
 Browser filters and strategies for dealing with
 [Dark Patterns](https://darkpatterns.org), which are defined as:
 
-> Dark Patterns are tricks used in websites and apps that make you buy or sign up 
-> for things that you didn't mean to. 
+> Dark Patterns are tricks used in websites and apps that make you buy or sign up
+> for things that you didn't mean to.
 >
 > **How do Dark Patterns work?**
 >
@@ -13,16 +13,25 @@ Browser filters and strategies for dealing with
 The set of tools and concepts here aim to help you defend yourself against these
 types of behaviours.
 
+## Before and After
+
+<p>
+<img src="media/before.jpg" width="300">
+<img src="media/after.jpg" width="300">
+</p>
+
+Feeling more relaxed?
+
 ## Naming
 
 > “What is it?” asked Arthur.
-> 
+>
 > “The Hitchhiker’s Guide to the Galaxy. It’s a sort of electronic book. It tells you everything you need to know about anything. That’s its job.”
 Arthur turned it over nervously in his hands.
 >
 > “I like the cover,” he said. “_'Don’t Panic'_. It’s the first helpful or intelligible thing anybody’s said to me all day.”
 
-From _The Hitchhiker’s Guide to the Galaxy_ by Douglas Adams. 
+From _The Hitchhiker’s Guide to the Galaxy_ by Douglas Adams.
 
 The aim of this project is to calm the plethora of dark patterns experienced online,
 many of which seek to induce fear, anxiety and panic to influence your behaviour as
@@ -37,7 +46,7 @@ you browse.
    scroll to the bottom and use `Import` from this URL:
 
        https://github.com/davidjb/dont-panic/raw/master/ublock-cosmetic.txt
-       
+
 1. Click `Apply Changes` and the filter will be auto-downloaded and kept up-to-date
    for you in accordance with your update settings.
 
