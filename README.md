@@ -16,8 +16,8 @@ types of behaviours.
 ## Before and After
 
 <p>
-<img src="media/before.jpg" width="300">
-<img src="media/after.jpg" width="300">
+<img src="media/before.jpg" width="300" alt="Booking.com in its raw state before filters">
+<img src="media/after.jpg" width="300" alt="Booking.com after using Don't Panic!">
 </p>
 
 Feeling more relaxed?
