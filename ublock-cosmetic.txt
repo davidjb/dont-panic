@@ -62,6 +62,7 @@ booking.com##.new_hotel__badge
 booking.com##.genius_badge--by-stars
 booking.com##.all-inclusive-ribbon
 booking.com##.ribbon:has-text(Bestseller)
+booking.com##.ribbon:has-text(Best seller)
 booking.com##.bfast-included-ribbon
 ! Button text attempts to manipulate (eg "See our last available rooms") when it isn't the whole truth
 booking.com##.sr-cta-button-row
@@ -416,6 +417,7 @@ book.qantas.com.au##.notification:has-text(Don't miss out)
 
 economist.com##.inhouse__subscription-ribbon
 economist.com##.exit-pop
+economist.com##.end-of-article__body
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
